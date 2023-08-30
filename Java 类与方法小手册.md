@@ -752,3 +752,6 @@ public class Test {
 }
 ```
 
+# java.util.HashSet 类
+
+Introduction to Java Programming and Data Structures Comprehensive Version - ELEVENTH EDITION GLOBAL EDITION 代码
